@@ -1,6 +1,6 @@
 # Algorithm and Data Structure Notes :clipboard:
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Algorithm-Data-Structure-Notes.visitor-badge&right_text=My%20Page%20Visitors)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DSA-Programs.visitor-badge&right_text=My%20Page%20Visitors)
 
 Dive into a comprehensive collection of notes and implementations on algorithms and data structures. Whether you're a student, developer, or enthusiast, this repository provides clear explanations and practical code examples to enhance your understanding.
 
