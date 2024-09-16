@@ -24,6 +24,17 @@ Dive into a comprehensive collection of notes and implementations on algorithms 
   </picture>
 </div>
 
+## 📊 Most Used Programming Languages
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=schrodingerspet&theme=dark&hide_border=true&langs_count=10&card_width=700">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=schrodingerspet&theme=light&hide_border=true&langs_count=10&card_width=700">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schrodingerspet&theme=light&hide_border=true&langs_count=10&card_width=700" alt="Top Languages">
+  </picture>
+</div>
+
+
 ---
 
 ### Overview
