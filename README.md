@@ -1,24 +1,28 @@
+<div align="center">
+ 
 # Algorithm and Data Structure Notes :clipboard:
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DSA-Programs.visitor-badge&right_text=My%20Page%20Visitors)
+</div>
+
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Algorithm-Data-Structure-Notes.visitor-badge&right_text=My%20Page%20Visitors)
 
 Dive into a comprehensive collection of notes and implementations on algorithms and data structures. Whether you're a student, developer, or enthusiast, this repository provides clear explanations and practical code examples to enhance your understanding.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=500&color=A9F75A&center=true&vCenter=true&width=435&lines=WELCOME+TO+ALGORITHM+AND+DATA+STRUCTURE+NOTES+%E2%9C%A8;EXPLORE+CLEAR+NOTES+AND+CODE+IMPLEMENTATIONS+%E2%9C%A8)](https://git.io/typing-svg)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=500&color=A9F75A&center=true&vCenter=true&width=700&lines=WELCOME+TO+DSA+NOTES+%E2%9C%A8;EXPLORE+NOTES+AND+CODE+IMPLEMENTATIONS+%E2%9C%A8)](https://git.io/typing-svg)
+  
+</div>
 
 ![Maintainer](https://img.shields.io/badge/Creator-Aditya_Akolkar-black)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=schrodingerspet&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-## Table of Contents
-
-- [Overview](#overview)
-- [📚 References](#references)
-- [🎯 Vision](#vision)
-- [🛠️ Contributing](#contributing)
-- [📁 Folder Structure](#folder-structure)
-- [🚀 Getting Started](#getting-started)
-- [💻 Code Examples](#code-examples)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=schrodingerspet&theme=dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=schrodingerspet&theme=light&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=schrodingerspet&theme=light&hide_border=true" alt="GitHub Streak">
+  </picture>
+</div>
 
 ---
 
