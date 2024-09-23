@@ -167,4 +167,4 @@ Our goal is to make algorithm learning accessible and engaging for everyone. We 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/schrodingerspet/Algorithm-Data-Structure-Notes.git
+   git clone https://github.com/schrodingerspet/Data-Structure-Algorithm-.git
