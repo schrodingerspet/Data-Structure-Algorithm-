@@ -111,6 +111,14 @@ Explore our detailed notes and code samples on various algorithms and data struc
 
 ---
 
+### Roadmap for DSA 📈🗺️
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/9113302e-b585-4802-a252-ba20cf48e4ce" alt="Schrödinger's Cat" width="1000"/>
+</p>
+
+---
+
 ### 📚 References
 
 **Books** :book:
